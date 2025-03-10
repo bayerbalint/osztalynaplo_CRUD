@@ -66,7 +66,7 @@ function showAdminButtons()
 {
     echo '
     <li><button class="queryButton" name="adminClasses">osztályok</button></li>
-    <li><button class="queryButton" name="adminMarks">oztályzatok</button></li>
+    <li><button class="queryButton" name="adminMarks">osztályzatok</button></li>
     <li><button class="queryButton" name="adminSubjects">tantárgyak</button></li>
     <li><button class="queryButton" name="adminStudents">tanulók</button></li>
     <li><button class="queryButton" name="adminNew">új adat</button></li>
